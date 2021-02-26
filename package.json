@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "engines": {    "node": "12.x"  },
-  "main": "movies.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node movies.js"
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
